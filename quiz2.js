@@ -216,4 +216,4 @@ function updateCountdown()
     <!-- Remaining time label -->
   </span>
 </div>
-`;
+;
